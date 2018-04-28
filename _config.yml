@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: sid devic
+subtitle: personal site
+description: projects, puzzles, hackathons, research
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: me
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: ML/AI
+url: "sid.devic.us"
 
 # Comment
 comment:
@@ -15,21 +15,15 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    github: sid-devic
     # twitter: 
-    mail: leopardpan@icloud.com
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    mail: sid.devic@utd.edu
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
     id: UA-84134159-3   
-    host: auto  
+    host: auto
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -53,13 +47,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: blog
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: archive, description: archive, url: '/archive'}   
+    - {title: tags, description: tags, url: '/tags'}      
+    - {title: about, description: about, url: '/about'}      
     
 
 # Pagination
